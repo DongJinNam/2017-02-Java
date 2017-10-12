@@ -6,14 +6,16 @@ public class Log {
 	String who; // 누가
 	String code; // 대여한 VR Tool Code
 	boolean bBorrow; // 대여이면 true, 반납이면 false
+	int count; // 해당 VR기기 대여회수
 	
 	public Log() {}
 	
-	public Log(Date d, String wh, String c, boolean b) {
+	public Log(Date d, String wh, String c, boolean b, int cnt) {
 		when = d;
 		who = wh;
 		code = c;
 		bBorrow = b;
+		count = cnt;
 	}	
 	
 	public void setDate(Date d) {
@@ -42,7 +44,7 @@ public class Log {
 	
 	public String toString() {		
 		if (bBorrow == false)
-			return when + ", VRCode : " + code + ", isRenting : " + bBorrow;
+			return when + ", Count : " + Integer.toString(count) + ", VRCode :" + code + ", isRenting : " + bBorrow;
 		else						
 			return when + ", Who : " + who + ", VRCode : " + code + ", isRenting : " + bBorrow;
 	}

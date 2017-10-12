@@ -1,0 +1,1479 @@
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : STDVIV30, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDVIV30, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : MOBSVR70, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : SETOCC00, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : SETOCC01, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : SETOCC02, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBSVR70, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC00, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC01, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Edwin, VRCode : MOBSVR71, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : SETOCC03, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : SETOCC04, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC02, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBSVR71, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : MOBSVR72, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : SETOCC05, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : SETOCC06, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : MOBSVR73, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : SETOCC07, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC03, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC04, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBSVR72, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : STDVIV31, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC05, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC06, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : SETOCC08, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBSVR73, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : MOBSVR74, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : SETOCC09, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : MOBSVR75, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC07, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : MOBSVR76, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDVIV31, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : MOBSVR77, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC08, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : STDVIV32, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : SETOCC10, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBSVR74, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Edwin, VRCode : SETOCC11, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC09, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBSVR75, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBSVR76, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBSVR77, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDVIV32, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Edwin, VRCode : STDVIV33, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC10, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : SETOCC12, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC11, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDVIV33, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : STDVIV34, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : STDVIV35, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC12, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDVIV34, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : SETOCC13, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : John, VRCode : STDVIV36, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDVIV35, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC13, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDVIV36, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : SETOCC14, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : SETPVR15, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : STDVIV37, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETOCC14, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : STDVIV38, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : STDVIV39, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR15, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDVIV37, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDVIV38, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : SETPVR16, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : STDKIN40, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : MOBSVR78, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDVIV39, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Edwin, VRCode : MOBSVR79, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR16, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDKIN40, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBSVR78, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : SETPVR17, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBSVR79, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : John, VRCode : STDKIN41, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR17, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : STDKIN42, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : MOBGCB80, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : STDKIN43, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : STDKIN44, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : MOBGCB81, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : STDKIN45, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDKIN41, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : SETPVR18, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : MOBGCB82, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Edwin, VRCode : STDKIN46, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : STDKIN47, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : STDKIN48, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDKIN42, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBGCB80, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDKIN43, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : John, VRCode : STDKIN49, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDKIN44, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : MOBGCB83, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : STDWII50, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBGCB81, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDKIN45, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : STDWII51, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : STDWII52, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR18, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBGCB82, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : MOBGCB84, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDKIN46, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDKIN47, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : STDWII53, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDKIN48, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDKIN49, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBGCB83, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : STDWII54, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDWII50, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : SETPVR19, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDWII51, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : STDWII55, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : STDWII56, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : STDWII57, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Edwin, VRCode : STDWII58, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDWII52, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : MOBGCB85, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBGCB84, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Edwin, VRCode : SETPVR20, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDWII53, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : John, VRCode : SETPVR21, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDWII54, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR19, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Edwin, VRCode : SETPVR22, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : STDWII59, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDWII55, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : STDVIV30, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDWII56, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDWII57, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : SETPVR23, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDWII58, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBGCB85, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR20, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR21, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR22, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :STDWII59, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : STDVIV31, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDVIV30, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : MOBGCB86, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR23, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : SETPVR24, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDVIV31, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBGCB86, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR24, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : MOBGCB87, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBGCB87, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : MOBGCB88, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBGCB88, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : STDVIV32, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : SETPVR25, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDVIV32, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR25, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : SETPVR26, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR26, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : STDVIV33, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : MOBGCB89, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : SETPVR27, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDVIV33, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : MOBVRB90, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBGCB89, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : SETPVR28, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : MOBVRB91, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR27, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : John, VRCode : STDVIV34, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBVRB90, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : MOBVRB92, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : MOBVRB93, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR28, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBVRB91, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDVIV34, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBVRB92, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBVRB93, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : MOBVRB94, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBVRB94, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : SETPVR29, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :SETPVR29, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : MOBVRB95, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : John, VRCode : MOBVRB96, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : MOBVRB97, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : MOBVRB98, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBVRB95, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBVRB96, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : STDVIV35, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : STDVIV36, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : STDVIV37, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBVRB97, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBVRB98, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : MOBVRB99, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : John, VRCode : SETOCC00, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : SETOCC01, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDVIV35, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDVIV36, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDVIV37, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : STDVIV38, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBVRB99, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : SETOCC02, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC00, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC01, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : STDVIV39, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDVIV38, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : SETOCC03, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC02, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDVIV39, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : STDKIN40, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC03, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDKIN40, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : MOBDLO100, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBDLO100, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : SETOCC04, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : STDKIN41, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC04, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDKIN41, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Edwin, VRCode : STDKIN42, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : MOBDLO101, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDKIN42, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : SETOCC05, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBDLO101, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC05, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : STDKIN43, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDKIN43, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : SETOCC06, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC06, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : SETOCC07, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC07, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : SETOCC08, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC08, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : STDKIN44, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : MOBDLO102, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDKIN44, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBDLO102, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : MOBDLO103, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBDLO103, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : MOBDLO104, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : MOBDLO105, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBDLO104, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBDLO105, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : SETOCC09, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : SETOCC10, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC09, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : STDKIN45, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC10, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDKIN45, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : SETOCC11, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : STDKIN46, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC11, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDKIN46, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : MOBDLO106, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : STDKIN47, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBDLO106, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDKIN47, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : MOBDLO107, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : MOBDLO108, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : MOBDLO109, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : SETOCC12, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBDLO107, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBDLO108, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 1, VRCode :MOBDLO109, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : STDKIN48, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC12, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDKIN48, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : MOBSVR70, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :MOBSVR70, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : MOBSVR71, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : SETOCC13, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : MOBSVR72, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :MOBSVR71, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC13, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : STDKIN49, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : SETOCC14, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : SETPVR15, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :MOBSVR72, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDKIN49, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : SETPVR16, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETOCC14, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : STDWII50, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETPVR15, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : STDWII51, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : MOBSVR73, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : MOBSVR74, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETPVR16, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDWII50, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : SETPVR17, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : John, VRCode : SETPVR18, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : SETPVR19, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Edwin, VRCode : MOBSVR75, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : SETPVR20, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : John, VRCode : STDWII52, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : STDWII53, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : STDWII54, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : John, VRCode : MOBSVR76, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDWII51, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Vincent, VRCode : SETPVR21, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :MOBSVR73, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Chris, VRCode : SETPVR22, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : John, VRCode : SETPVR23, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :MOBSVR74, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Gabriel, VRCode : MOBSVR77, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETPVR17, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETPVR18, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETPVR19, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :MOBSVR75, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : STDWII55, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETPVR20, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDWII52, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDWII53, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDWII54, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :MOBSVR76, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : David, VRCode : STDWII56, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETPVR21, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : STDWII57, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : SETPVR24, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : MOBSVR78, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETPVR22, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETPVR23, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : STDWII58, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : MOBSVR79, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :MOBSVR77, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDWII55, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Oliver, VRCode : MOBGCB80, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDWII56, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Edwin, VRCode : MOBGCB81, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDWII57, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :SETPVR24, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Patrick, VRCode : STDWII59, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : John, VRCode : STDVIV30, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : MOBGCB82, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : SETPVR25, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : STDVIV31, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Samuel, VRCode : MOBGCB83, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :MOBSVR78, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Who : Alfred, VRCode : SETPVR26, isRenting : true
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :STDWII58, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :MOBSVR79, isRenting : false
+Date : Fri Oct 13 04:16:02 KST 2017, Count : 2, VRCode :MOBGCB80, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : STDVIV32, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBGCB81, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :STDWII59, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETPVR27, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : SETPVR28, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDVIV30, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETPVR29, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDVIV33, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBGCB82, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : SETOCC00, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDVIV34, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :SETPVR25, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDVIV35, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDVIV31, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBGCB83, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :SETPVR26, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDVIV32, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : MOBGCB84, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :SETPVR27, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : STDVIV36, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDVIV37, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : MOBGCB85, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDVIV38, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :SETPVR28, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :SETPVR29, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : SETOCC01, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : MOBGCB86, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : STDVIV39, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : MOBGCB87, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBGCB88, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDVIV33, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDKIN40, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : STDKIN41, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : SETOCC02, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC00, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDVIV34, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETOCC03, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDVIV35, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : SETOCC04, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : SETOCC05, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBGCB84, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : SETOCC06, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : MOBGCB89, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDVIV36, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDVIV37, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBGCB85, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : STDKIN42, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDVIV38, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC01, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : MOBVRB90, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBGCB86, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDVIV39, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : STDKIN43, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : STDKIN44, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBGCB87, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDKIN45, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : SETOCC07, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBGCB88, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDKIN40, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : STDKIN46, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : SETOCC08, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDKIN47, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : MOBVRB91, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDKIN41, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETOCC09, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBVRB92, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC02, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC03, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC04, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBVRB93, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : MOBVRB94, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC05, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDKIN48, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC06, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : SETOCC10, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBGCB89, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDKIN42, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : MOBVRB95, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBVRB90, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : MOBVRB96, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : SETOCC11, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : STDKIN49, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : SETOCC12, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDKIN43, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : MOBVRB97, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDKIN44, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDKIN45, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : SETOCC13, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC07, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDKIN46, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : SETOCC14, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC08, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDKIN47, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : MOBVRB98, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : SETPVR15, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBVRB91, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : MOBVRB99, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC09, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBVRB92, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : MOBDLO100, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBVRB93, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETPVR16, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : SETPVR17, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBVRB94, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : SETPVR18, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : MOBDLO101, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : STDWII50, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDKIN48, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC10, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : STDWII51, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : SETPVR19, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBVRB95, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : STDWII52, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBVRB96, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBDLO102, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : STDWII53, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC11, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDKIN49, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : SETPVR20, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC12, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBVRB97, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : MOBDLO103, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC13, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDWII54, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETOCC14, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : MOBDLO104, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : SETPVR21, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : STDWII55, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBVRB98, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : STDWII56, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : SETPVR22, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR15, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBVRB99, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : STDWII57, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : MOBDLO105, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETPVR23, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBDLO100, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR16, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR17, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDWII58, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDWII59, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR18, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBDLO101, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDWII50, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDVIV30, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETPVR24, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : MOBDLO106, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDWII51, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : MOBDLO107, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR19, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : SETPVR25, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : STDVIV31, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : SETPVR26, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : STDVIV32, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDWII52, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBDLO102, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETPVR27, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : MOBDLO108, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDWII53, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR20, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBDLO103, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : STDVIV33, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBDLO109, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : STDVIV34, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDWII54, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBDLO104, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : STDVIV35, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR21, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDWII55, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : MOBSVR70, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETPVR28, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : SETPVR29, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : MOBSVR71, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDWII56, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : STDVIV36, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR22, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : MOBSVR72, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDWII57, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDVIV37, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : MOBSVR73, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : SETOCC00, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDVIV38, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBSVR74, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBDLO105, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR23, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : STDVIV39, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETOCC01, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : MOBSVR75, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDWII58, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : SETOCC02, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBSVR76, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :STDWII59, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBSVR77, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : MOBSVR78, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDVIV30, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR24, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETOCC03, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : MOBSVR79, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : MOBGCB80, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBDLO106, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : STDKIN40, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBDLO107, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR25, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : SETOCC04, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDVIV31, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR26, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDVIV32, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : SETOCC05, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : MOBGCB81, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR27, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETOCC06, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBDLO108, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : STDKIN41, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDVIV33, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : SETOCC07, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : SETOCC08, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 2, VRCode :MOBDLO109, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDKIN42, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : STDKIN43, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDKIN44, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : STDKIN45, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : STDKIN46, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDVIV34, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : MOBGCB82, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDVIV35, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBSVR70, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR28, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :SETPVR29, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBSVR71, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDVIV36, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETOCC09, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBSVR72, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDVIV37, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBSVR73, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : SETOCC10, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC00, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDVIV38, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBSVR74, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : SETOCC11, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : SETOCC12, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETOCC13, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDVIV39, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : STDKIN47, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDKIN48, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBGCB83, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC01, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBSVR75, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : STDKIN49, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC02, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDWII50, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : MOBGCB84, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : STDWII51, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : MOBGCB85, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBSVR76, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBGCB86, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBGCB87, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBGCB88, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBSVR77, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBSVR78, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETOCC14, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC03, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : SETPVR15, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBSVR79, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBGCB80, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDKIN40, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC04, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : SETPVR16, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETPVR17, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDWII52, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC05, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBGCB81, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC06, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBGCB89, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : STDWII53, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : STDWII54, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDKIN41, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC07, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : MOBVRB90, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : MOBVRB91, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC08, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETPVR18, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : STDWII55, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBVRB92, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDKIN42, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDKIN43, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : MOBVRB93, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDKIN44, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDKIN45, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : STDWII56, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBVRB94, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDKIN46, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : MOBVRB95, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : MOBVRB96, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : SETPVR19, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBGCB82, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC09, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC10, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : STDWII57, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC11, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC12, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : STDWII58, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : STDWII59, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : STDVIV30, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC13, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDKIN47, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : MOBVRB97, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDKIN48, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBGCB83, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDKIN49, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDWII50, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : STDVIV31, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDVIV32, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBGCB84, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : SETPVR20, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDVIV33, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDWII51, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : SETPVR21, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBGCB85, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : SETPVR22, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBVRB98, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBGCB86, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBGCB87, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : SETPVR23, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : STDVIV34, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBGCB88, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETPVR24, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDVIV35, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBVRB99, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETOCC14, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR15, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR16, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : STDVIV36, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : MOBDLO100, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : STDVIV37, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR17, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETPVR25, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : STDVIV38, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDWII52, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBGCB89, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDWII53, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDWII54, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : SETPVR26, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBVRB90, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBVRB91, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR18, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : STDVIV39, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDKIN40, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : SETPVR27, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDWII55, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDKIN41, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBVRB92, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBVRB93, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDWII56, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDKIN42, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBVRB94, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBDLO101, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBDLO102, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : SETPVR28, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : STDKIN43, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBVRB95, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBVRB96, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : MOBDLO103, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR19, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDWII57, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDKIN44, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDWII58, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :STDWII59, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : MOBDLO104, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : MOBDLO105, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDVIV30, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : MOBDLO106, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : STDKIN45, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : STDKIN46, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : MOBDLO107, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : SETPVR29, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBVRB97, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : SETOCC00, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDVIV31, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDVIV32, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : MOBDLO108, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR20, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETOCC01, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDVIV33, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETOCC02, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : SETOCC03, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR21, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR22, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : MOBDLO109, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : MOBSVR70, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : MOBSVR71, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBVRB98, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDKIN47, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : MOBSVR72, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : SETOCC04, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : SETOCC05, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETOCC06, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR23, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDVIV34, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : STDKIN48, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : SETOCC07, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR24, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDVIV35, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBSVR73, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBVRB99, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDVIV36, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDKIN49, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBDLO100, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDVIV37, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR25, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBSVR74, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBSVR75, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDVIV38, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR26, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDVIV39, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDKIN40, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : MOBSVR76, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : MOBSVR77, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR27, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBSVR78, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDKIN41, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETOCC08, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : SETOCC09, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : SETOCC10, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : MOBSVR79, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDKIN42, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETOCC11, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : SETOCC12, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBDLO101, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBDLO102, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR28, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDKIN43, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBDLO103, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDKIN44, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBDLO104, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETOCC13, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDWII50, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBDLO105, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBDLO106, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : STDWII51, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDWII52, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDKIN45, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDKIN46, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBDLO107, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :SETPVR29, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC00, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : MOBGCB80, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBDLO108, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBGCB81, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBGCB82, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC01, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC02, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBGCB83, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : MOBGCB84, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : SETOCC14, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC03, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 3, VRCode :MOBDLO109, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBSVR70, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBSVR71, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDKIN47, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : MOBGCB85, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : STDWII53, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : MOBGCB86, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETPVR15, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBGCB87, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBSVR72, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC04, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : STDWII54, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC05, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC06, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDKIN48, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC07, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : SETPVR16, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBSVR73, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDKIN49, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDWII55, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDWII56, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBSVR74, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBSVR75, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETPVR17, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBSVR76, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : MOBGCB88, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBSVR77, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : SETPVR18, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : STDWII57, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBSVR78, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC08, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : MOBGCB89, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC09, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC10, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBSVR79, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : SETPVR19, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC11, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC12, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC13, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDWII50, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : MOBVRB90, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDWII51, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDWII52, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBGCB80, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBGCB81, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : SETPVR20, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : SETPVR21, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBGCB82, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : SETPVR22, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : MOBVRB91, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : MOBVRB92, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBGCB83, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : STDWII58, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : SETPVR23, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : SETPVR24, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : MOBVRB93, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : SETPVR25, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : STDWII59, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDVIV30, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBGCB84, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETOCC14, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBGCB85, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : MOBVRB94, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDWII53, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBGCB86, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR15, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBGCB87, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDWII54, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR16, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDWII55, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDWII56, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : SETPVR26, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETPVR27, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDVIV31, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR17, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBGCB88, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR18, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDWII57, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBGCB89, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR19, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBVRB90, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR20, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : STDVIV32, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR21, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDVIV33, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : MOBVRB95, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : STDVIV34, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR22, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBVRB91, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : MOBVRB96, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBVRB92, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBVRB97, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBVRB98, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : MOBVRB99, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : SETPVR28, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDWII58, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR23, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : MOBDLO100, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR24, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDVIV35, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBVRB93, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETPVR29, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR25, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : SETOCC00, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :STDWII59, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : SETOCC01, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Chris, VRCode : MOBDLO101, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 6, VRCode :STDVIV30, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBDLO102, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBVRB94, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETOCC02, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : MOBDLO103, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : SETOCC03, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR26, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Edwin, VRCode : STDVIV36, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Gabriel, VRCode : STDVIV37, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : SETOCC04, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR27, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : STDVIV38, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 6, VRCode :STDVIV31, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 6, VRCode :STDVIV32, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETOCC05, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 6, VRCode :STDVIV33, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBVRB95, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDVIV39, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 6, VRCode :STDVIV34, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBDLO104, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : SETOCC06, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBVRB96, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : STDKIN40, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : David, VRCode : STDKIN41, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : SETOCC07, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Vincent, VRCode : MOBDLO105, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Samuel, VRCode : STDKIN42, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBVRB97, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBVRB98, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : John, VRCode : MOBDLO106, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 4, VRCode :MOBVRB99, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Alfred, VRCode : SETOCC08, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Oliver, VRCode : STDKIN43, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Count : 5, VRCode :SETPVR28, isRenting : false
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBDLO107, isRenting : true
+Date : Fri Oct 13 04:16:03 KST 2017, Who : Patrick, VRCode : MOBDLO108, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : SETOCC09, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : STDKIN44, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 4, VRCode :MOBDLO100, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDVIV35, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : MOBDLO109, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :SETPVR29, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC00, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC01, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 4, VRCode :MOBDLO101, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 4, VRCode :MOBDLO102, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC02, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : STDKIN45, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : MOBSVR70, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBSVR71, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 4, VRCode :MOBDLO103, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : STDKIN46, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC03, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : STDKIN47, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : SETOCC10, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : MOBSVR72, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : STDKIN48, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : MOBSVR73, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETOCC11, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETOCC12, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDVIV36, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDVIV37, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC04, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : MOBSVR74, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDVIV38, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC05, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : STDKIN49, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : STDWII50, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : MOBSVR75, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : MOBSVR76, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDVIV39, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : MOBSVR77, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETOCC13, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 4, VRCode :MOBDLO104, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC06, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDKIN40, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : STDWII51, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDKIN41, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBSVR78, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : MOBSVR79, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : MOBGCB80, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : MOBGCB81, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC07, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : MOBGCB82, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : SETOCC14, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : SETPVR15, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 4, VRCode :MOBDLO105, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : STDWII52, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : STDWII53, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDKIN42, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : SETPVR16, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 4, VRCode :MOBDLO106, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : MOBGCB83, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : STDWII54, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC08, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDKIN43, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : STDWII55, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : STDWII56, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : SETPVR17, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : MOBGCB84, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 4, VRCode :MOBDLO107, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 4, VRCode :MOBDLO108, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC09, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : SETPVR18, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : MOBGCB85, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDKIN44, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : STDWII57, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 4, VRCode :MOBDLO109, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : SETPVR19, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : SETPVR20, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDKIN45, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBSVR70, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBSVR71, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETPVR21, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDKIN46, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : STDWII58, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDKIN47, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC10, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETPVR22, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : SETPVR23, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : SETPVR24, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : STDWII59, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : MOBGCB86, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBSVR72, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : MOBGCB87, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDKIN48, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : MOBGCB88, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBSVR73, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : MOBGCB89, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETPVR25, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : STDVIV30, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : STDVIV31, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC11, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : SETPVR26, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : MOBVRB90, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC12, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBSVR74, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : STDVIV32, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDKIN49, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDWII50, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : SETPVR27, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : SETPVR28, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBSVR75, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBSVR76, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : STDVIV33, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBSVR77, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : SETPVR29, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : SETOCC00, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : MOBVRB91, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC13, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDWII51, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBSVR78, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETOCC01, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBSVR79, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBGCB80, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : STDVIV34, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBGCB81, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBGCB82, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETOCC14, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETOCC02, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR15, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : SETOCC03, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : MOBVRB92, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : SETOCC04, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDWII52, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDWII53, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR16, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBGCB83, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : SETOCC05, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : MOBVRB93, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDWII54, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDWII55, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : MOBVRB94, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDWII56, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : STDVIV35, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR17, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBGCB84, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR18, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBGCB85, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : MOBVRB95, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDWII57, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR19, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : STDVIV36, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : MOBVRB96, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR20, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : STDVIV37, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : STDVIV38, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : SETOCC06, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR21, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDWII58, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : SETOCC07, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : MOBVRB97, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETOCC08, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR22, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR23, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR24, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :STDWII59, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : MOBVRB98, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : STDVIV39, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBGCB86, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : SETOCC09, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBGCB87, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : SETOCC10, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : STDKIN40, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : SETOCC11, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBGCB88, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBGCB89, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : STDKIN41, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR25, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDVIV30, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDVIV31, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR26, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBVRB90, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETOCC12, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : SETOCC13, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDVIV32, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : STDKIN42, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : SETOCC14, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR27, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR28, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDVIV33, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :SETPVR29, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : STDKIN43, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : MOBVRB99, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC00, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBVRB91, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETPVR15, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : SETPVR16, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC01, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDVIV34, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : STDKIN44, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : SETPVR17, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : MOBDLO100, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : SETPVR18, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBDLO101, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC02, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC03, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : STDKIN45, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBVRB92, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETPVR19, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC04, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETPVR20, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : STDKIN46, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC05, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : MOBDLO102, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBVRB93, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBVRB94, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : STDKIN47, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDVIV35, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : STDKIN48, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBVRB95, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDVIV36, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBVRB96, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : SETPVR21, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDVIV37, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : MOBDLO103, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : SETPVR22, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : STDKIN49, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : MOBDLO104, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : MOBDLO105, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDVIV38, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC06, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : STDWII50, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC07, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBVRB97, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC08, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBVRB98, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDVIV39, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : MOBDLO106, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC09, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : STDWII51, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : MOBDLO107, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : MOBDLO108, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : STDWII52, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETPVR23, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC10, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDKIN40, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC11, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDKIN41, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : MOBDLO109, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBSVR70, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC12, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : STDWII53, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC13, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : MOBSVR71, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDKIN42, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : STDWII54, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETOCC14, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDKIN43, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : STDWII55, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : STDWII56, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : MOBSVR72, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : MOBSVR73, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBVRB99, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR15, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETPVR24, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : STDWII57, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR16, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDKIN44, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR17, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBDLO100, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : STDWII58, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : MOBSVR74, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR18, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBDLO101, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDKIN45, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR19, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : MOBSVR75, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : STDWII59, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : SETPVR25, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR20, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDKIN46, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : STDVIV30, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : SETPVR26, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBSVR76, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : SETPVR27, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : MOBSVR77, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : MOBSVR78, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBDLO102, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETPVR28, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDKIN47, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDKIN48, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR21, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : STDVIV31, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBDLO103, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR22, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETPVR29, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : SETOCC00, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDKIN49, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETOCC01, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : SETOCC02, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : MOBSVR79, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBDLO104, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBDLO105, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDWII50, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : SETOCC03, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : STDVIV32, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : STDVIV33, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBDLO106, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : SETOCC04, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDWII51, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : SETOCC05, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBDLO107, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBDLO108, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDWII52, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR23, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : MOBGCB80, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 5, VRCode :MOBDLO109, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBSVR70, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDWII53, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : SETOCC06, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBSVR71, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDWII54, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDWII55, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDWII56, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBSVR72, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : STDVIV34, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : SETOCC07, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : MOBGCB81, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : STDVIV35, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBSVR73, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR24, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBGCB82, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDWII57, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDWII58, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBSVR74, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : STDVIV36, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBSVR75, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :STDWII59, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : STDVIV37, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : SETOCC08, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR25, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDVIV30, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR26, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : MOBGCB83, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBSVR76, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : SETOCC09, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR27, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : STDVIV38, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBSVR77, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBGCB84, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : SETOCC10, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : STDVIV39, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETOCC11, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBSVR78, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : STDKIN40, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : MOBGCB85, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR28, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDVIV31, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 7, VRCode :SETPVR29, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC00, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC01, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC02, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBSVR79, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC03, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDVIV32, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : STDKIN41, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDVIV33, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC04, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC05, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : STDKIN42, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : MOBGCB86, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBGCB80, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC06, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : STDKIN43, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : MOBGCB87, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : STDKIN44, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETOCC12, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDVIV34, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC07, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBGCB81, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDVIV35, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBGCB82, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : STDKIN45, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDVIV36, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDVIV37, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC08, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBGCB83, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC09, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDVIV38, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBGCB84, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : MOBGCB88, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : STDKIN46, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC10, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : STDKIN47, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : MOBGCB89, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDVIV39, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : STDKIN48, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC11, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : STDKIN49, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDKIN40, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETOCC13, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : MOBVRB90, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBGCB85, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : STDWII50, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : STDWII51, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : STDWII52, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDKIN41, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : STDWII53, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDKIN42, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : SETOCC14, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBGCB86, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDKIN43, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBGCB87, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : STDWII54, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : STDWII55, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : MOBVRB91, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDKIN44, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC12, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : STDWII56, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : STDWII57, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBVRB92, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : MOBVRB93, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDKIN45, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBGCB88, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDKIN46, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDKIN47, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : SETPVR15, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETPVR16, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBGCB89, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : STDWII58, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDKIN48, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : MOBVRB94, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDKIN49, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC13, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : SETPVR17, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBVRB90, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : SETPVR18, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDWII50, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : SETPVR19, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDWII51, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : STDWII59, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : SETPVR20, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : STDVIV30, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDWII52, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDWII53, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : MOBVRB95, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETOCC14, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDWII54, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDWII55, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETPVR21, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : STDVIV31, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBVRB91, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : MOBVRB96, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDWII56, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDWII57, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : SETPVR22, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBVRB92, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBVRB93, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : SETPVR23, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : SETPVR24, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : STDVIV32, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : STDVIV33, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : STDVIV34, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR15, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR16, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDWII58, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBVRB94, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR17, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBVRB97, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR18, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : SETPVR25, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : MOBVRB98, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR19, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : STDVIV35, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : SETPVR26, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :STDWII59, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR20, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :STDVIV30, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : MOBVRB99, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBVRB95, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : SETPVR27, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR21, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBDLO100, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :STDVIV31, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBVRB96, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : MOBDLO101, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR22, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR23, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : STDVIV36, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : MOBDLO102, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR24, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBDLO103, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :STDVIV32, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Chris, VRCode : STDVIV37, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : MOBDLO104, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : MOBDLO105, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :STDVIV33, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETPVR28, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :STDVIV34, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : STDVIV38, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBVRB97, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR25, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBVRB98, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : STDVIV39, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :STDVIV35, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR26, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBVRB99, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : SETPVR29, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : SETOCC00, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : STDKIN40, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR27, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : SETOCC01, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : SETOCC02, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : MOBDLO106, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBDLO107, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : John, VRCode : STDKIN41, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : STDKIN42, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : SETOCC03, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBDLO100, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBDLO101, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : SETOCC04, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : STDKIN43, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :STDVIV36, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : STDKIN44, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBDLO102, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBDLO103, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : STDKIN45, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Edwin, VRCode : SETOCC05, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Samuel, VRCode : SETOCC06, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :STDVIV37, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : MOBDLO108, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBDLO104, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 6, VRCode :MOBDLO105, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR28, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :STDVIV38, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Oliver, VRCode : SETOCC07, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :STDVIV39, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Gabriel, VRCode : MOBDLO109, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 8, VRCode :SETPVR29, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Alfred, VRCode : STDKIN46, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :SETOCC00, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : MOBSVR70, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :STDKIN40, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : David, VRCode : STDKIN47, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Count : 9, VRCode :SETOCC01, isRenting : false
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : SETOCC08, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Patrick, VRCode : STDKIN48, isRenting : true
+Date : Fri Oct 13 04:16:04 KST 2017, Who : Vincent, VRCode : MOBSVR71, isRenting : true

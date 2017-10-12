@@ -10,7 +10,7 @@ public class VRManager {
 	PriorityQueue<VRBaseTool> pq; // Seating VR Tool들을 담은 Priority Queue
 	PriorityQueue<VRBaseTool> pq2; // Standing VR Tool들을 담은 Priority Queue
 	PriorityQueue<VRBaseTool> pq3; // Mobile VR Tool들을 담은 Priority Queue
-	int[] rentBoard; // 기기별로 rent 중인지 아닌지 체크함.
+	Queue<Integer> queue;
 			
 	public VRManager() {
 		recordMap = new HashMap<Integer,Log>();		
@@ -20,7 +20,7 @@ public class VRManager {
 		pq = new PriorityQueue<>();
 		pq2 = new PriorityQueue<>();
 		pq3 = new PriorityQueue<>();
-		rentBoard = new int[100];
+		queue = new LinkedList<Integer>();
 	}
 	
 	public void Initialize() {
@@ -80,67 +80,8 @@ public class VRManager {
 	public HashMap<Integer,Log> getMap() {
 		return recordMap;
 	}
-	
-	public void setBoard(int i) {
-		rentBoard[i] = 1 - rentBoard[i]; 
-	}
-	
-	public int getBoard(int i) {
-		return rentBoard[i];
-	}
-	
-	// 출력 테스트 log
-	public void printLog() {
-		Set entrySet = recordMap.entrySet();
-		Iterator it = entrySet.iterator();		
-		while(it.hasNext()) {
-			Map.Entry me = (Map.Entry)it.next();
-			System.out.println("Case" + me.getKey() + " - Date : " + me.getValue());
-		}
-	}
-	
-	// 출력 테스트
-	public void printAll() {
-		// print seating VR tool
-		PriorityQueue<? super VRBaseTool> tpq = new PriorityQueue<>();
-		
-		int i = 0;
-		while (!pq.isEmpty()) {
-			VRSeatTool s = (VRSeatTool) pq.peek();
-			System.out.println("Case" + i + " : " + s.getCode());			
-			pq.poll();
-			tpq.offer(s);
-			i++;
-		}
-		while (!tpq.isEmpty()) {
-			VRSeatTool s = (VRSeatTool) tpq.peek();
-			tpq.poll();
-			pq.offer(s);			
-		}
-		while (!pq2.isEmpty()) {
-			VRStandTool s = (VRStandTool) pq2.peek();
-			System.out.println("Case" + i + " : " + s.getCode());			
-			pq2.poll();
-			tpq.offer(s);
-			i++;
-		}
-		while (!tpq.isEmpty()) {
-			VRStandTool s = (VRStandTool) tpq.peek();
-			tpq.poll();
-			pq2.offer(s);			
-		}		
-		while (!pq3.isEmpty()) {
-			VRMobileTool s = (VRMobileTool) pq3.peek();
-			System.out.println("Case" + i + " : " + s.getCode());			
-			pq3.poll();
-			tpq.offer(s);
-			i++;
-		}
-		while (!tpq.isEmpty()) {
-			VRMobileTool s = (VRMobileTool) tpq.peek();
-			tpq.poll();
-			pq3.offer(s);			
-		}		
-	}
-	
+
+	public Queue<Integer> getQueue() {
+		return queue;
+	}	
 }
